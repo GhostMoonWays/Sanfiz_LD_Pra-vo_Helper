@@ -16,7 +16,7 @@ update_state = false
 local script_vers = 2
 local script_vers_text = "1.50"
 
-local update_url = "https://raw.githubusercontent.com/thechampguess/scripts/master/update.ini" -- тут тоже свою ссылку
+local update_url = "https://raw.githubusercontent.com/GhostMoonWays/Sanfiz_LD_Pra-vo_Helper/refs/heads/main/update.ini" -- тут тоже свою ссылку
 local update_path = getWorkingDirectory() .. "/update.ini" -- и тут свою ссылку
 
 local script_url = "https://github.com/GhostMoonWays/Sanfiz_LD_Pra-vo_Helper/raw/refs/heads/main/LD_Helper.lua" -- тут свою ссылку
